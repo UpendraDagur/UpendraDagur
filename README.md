@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">🚧 Under construction—just like my skills and every project I start.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p data-importer="text" align="left"></p>
+<p data-importer="text" align="left">🌱 Currently surviving school while learning JavaScript.</p>
 
 ###
 
-<h2 data-importer="text" align="left">Language</h2>
+<h2 data-importer="text" align="left">Skills</h2>
 
 ###
 
