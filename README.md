@@ -6,6 +6,14 @@
 
 ###
 
+<h1 data-importer="text" align="left">About me</h1>
+
+###
+
+<p data-importer="text" align="left"></p>
+
+###
+
 <h2 data-importer="text" align="left">Skill</h2>
 
 ###
