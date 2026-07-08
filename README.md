@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Skill</h2>
+<h2 data-importer="text" align="left">Language</h2>
 
 ###
 
