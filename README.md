@@ -1,4 +1,4 @@
-<h1 align="left">Hello there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNyaTNzNGJrc2NqdzRqbnhqeTVheDVsZHRrODQ4b2tsZnp4MzJobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="60"> I'm Upendra Dagur.</h1>
+<h1 align="left">Hello there!<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNyaTNzNGJrc2NqdzRqbnhqeTVheDVsZHRrODQ4b2tsZnp4MzJobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="60">I'm Upendra Dagur.</h1>
 
 <p align="left">🚧 Under construction—just like my skills and every project I start.</p>
 
