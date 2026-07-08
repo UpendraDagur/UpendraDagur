@@ -1,28 +1,12 @@
-<h1 data-importer="text" align="left">Hello there! 👋 I'm Upendra Dagur.</h1>
+<h1 align="left">Hello there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNyaTNzNGJrc2NqdzRqbnhqeTVheDVsZHRrODQ4b2tsZnp4MzJobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="60"> I'm Upendra Dagur.</h1>
 
-###
+<p align="left">🚧 Under construction—just like my skills and every project I start.</p>
 
-<p data-importer="text" align="left">🚧 Under construction—just like my skills and every project I start.</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/itsupendradagur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/itsupendradagur" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/itsup3ndra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itsup3ndra" height="30" width="40" /></a>
+</p>
 
-###
-
-<h1 data-importer="text" align="left">About me</h1>
-
-###
-
-<p data-importer="text" align="left">🌱 Currently surviving school while learning JavaScript.</p>
-
-###
-
-<h2 data-importer="text" align="left">Skills</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-</div>
-
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
